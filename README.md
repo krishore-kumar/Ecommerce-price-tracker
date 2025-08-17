@@ -1,9 +1,3 @@
-## Steps 
-- getting the link from Amazon website and locating elements: product name and price
-- Fetching the element using selenium syntax  [See documentation](https://selenium-python.readthedocs.io/locating-elements.html)
-- Checking if the price meets the budget
-- Sending an e-mail alert using smtplib 
-
 # Amazon Price Tracker using Python, Selenium, and AWS EC2  
 
 This project is an **automated Amazon Price Tracker** built with **Python and Selenium**.  
